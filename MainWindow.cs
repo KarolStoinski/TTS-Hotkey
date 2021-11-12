@@ -95,6 +95,7 @@ namespace TTS_Hotkey
 
         private void ChangeVoice(object sender, EventArgs e)
         {
+            
             Synth.SelectVoice(voiceSelector.SelectedItem.ToString());
         }
 
