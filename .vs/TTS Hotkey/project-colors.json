@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2a935c7-a478-4321-8629-3348db06877b": {
+      "ProjectGuid": "f2a935c7-a478-4321-8629-3348db06877b",
+      "DisplayName": "TTS Hotkey",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
